@@ -1,5 +1,6 @@
 # Setting Up a Honeynet and SOC in Azure: Analyzing Live Network Traffic
-![honeynet-topology](https://github.com/user-attachments/assets/40b968d7-fe9e-4570-bd2a-2c39e4cd1214)
+![topology](https://github.com/user-attachments/assets/523a58d7-c186-4950-bad9-b30bd0e40847)
+
 
 
 ## Introduction
