@@ -21,7 +21,9 @@ The key metrics examined throughout this process include:
 - AzureNetworkAnalytics_CL : Instances of malicious traffic that gained entry into the honeynet
 
 ## Architecture Before Hardening / Security Controls
-![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
+![architecture-before-diagram](https://github.com/user-attachments/assets/ab9fd600-d89e-476a-838d-77a7b02cfad4)
+
+
 
 ## Architecture After Hardening / Security Controls
 ![Architecture Diagram](https://i.imgur.com/YQNa9Pp.jpg)
