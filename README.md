@@ -21,12 +21,12 @@ The key metrics examined throughout this process include:
 - AzureNetworkAnalytics_CL : Instances of malicious traffic that gained entry into the honeynet
 
 ## Architecture Before Hardening / Security Controls
-![architecture-before-diagram](https://github.com/user-attachments/assets/ab9fd600-d89e-476a-838d-77a7b02cfad4)
-
+![architecture-before](https://github.com/user-attachments/assets/b0512484-3ea6-46de-9aa3-0e31acc5a07e)
 
 
 ## Architecture After Hardening / Security Controls
-![Architecture Diagram](https://i.imgur.com/YQNa9Pp.jpg)
+![architecture-after-diagram](https://github.com/user-attachments/assets/a8682970-a8ab-40ee-beaf-ff97f8d62b72)
+
 
 The mini honeynet architecture in Azure comprises several key components:
 
