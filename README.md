@@ -1,7 +1,5 @@
 # Setting Up a Honeynet and SOC in Azure: Analyzing Live Network Traffic
-![topology](https://github.com/user-attachments/assets/523a58d7-c186-4950-bad9-b30bd0e40847)
-
-
+![topology-diagram](https://github.com/user-attachments/assets/ee0fb364-6855-47f6-ac22-c7c5cd21ae2a)
 
 ## Introduction
 
@@ -25,8 +23,7 @@ The key metrics examined throughout this process include:
 
 
 ## Architecture After Hardening / Security Controls
-![architecture-after-diagram](https://github.com/user-attachments/assets/a8682970-a8ab-40ee-beaf-ff97f8d62b72)
-
+![architecture-after-diagram](https://github.com/user-attachments/assets/be4c056d-281c-4086-bd67-9a1dc53020f9)
 
 The mini honeynet architecture in Azure comprises several key components:
 
